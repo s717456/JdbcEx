@@ -17,5 +17,5 @@
 
 This is [an example](http://example.com/ "Title") inline link.
 
- [google](http://google.com/ "Title") 
+ [google](http://google.com) 
 
