@@ -15,3 +15,7 @@
 <li>Parish</li>
 </ol>
 
+This is [an example](http://example.com/ "Title") inline link.
+
+ [google](http://google.com/ "Title") 
+
