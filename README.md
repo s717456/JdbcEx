@@ -19,3 +19,8 @@ This is [an example](http://example.com/ "Title") inline link.
 
  [google](http://google.com) 
 
+<table width=400 border=1>
+<tr>
+ <td>表單</td>
+</tr>
+</table>
